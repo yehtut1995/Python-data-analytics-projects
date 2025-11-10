@@ -6,3 +6,5 @@ It contains python projects of data analytics, data science, machine learning an
 - **OpenCV** - Computer vision and image processing  
 - **Pandas, NumPy** — for numerical operations,data manipulation, analysis 
 - **Matplotlib, Seaborn** — for data visualization
+- **fairlearn** - bias detection, fairness analysis
+- **SHAP** - Machine learning model interpretation, explainable AI (XAI)
