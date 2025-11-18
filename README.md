@@ -1,4 +1,4 @@
-It contains python projects of data analytics, data science, machine learning and deep learning (neural network) prediction model development, Computer Vision, Image recognition and classification. 
+It contains python projects of data analytics, data science, machine learning and deep learning (neural network) prediction model development, Computer Vision, Image recognition and classification, Generative AI, LLM (Transformers).  
 
 ## Tools and Libraries
 - **Python** — programming language  
