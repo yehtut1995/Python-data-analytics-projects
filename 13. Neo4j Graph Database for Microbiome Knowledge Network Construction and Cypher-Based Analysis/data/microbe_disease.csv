@@ -1,0 +1,8 @@
+microbe_id,disease_id,evidence
+M006,D001,High
+M003,D001,Medium
+M002,D002,High
+M004,D002,Medium
+M001,D003,Medium
+M005,D004,Low
+M004,D005,Medium

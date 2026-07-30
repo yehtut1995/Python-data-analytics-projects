@@ -1,0 +1,7 @@
+microbe_id,name,phylum
+M001,Akkermansia muciniphila,Verrucomicrobiota
+M002,Faecalibacterium prausnitzii,Firmicutes
+M003,Bacteroides fragilis,Bacteroidota
+M004,Escherichia coli,Proteobacteria
+M005,Lactobacillus rhamnosus,Firmicutes
+M006,Fusobacterium nucleatum,Fusobacteriota

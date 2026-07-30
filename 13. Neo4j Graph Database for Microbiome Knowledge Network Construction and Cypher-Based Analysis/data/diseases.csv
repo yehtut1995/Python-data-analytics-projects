@@ -1,0 +1,6 @@
+disease_id,name,category
+D001,Colorectal Cancer,Cancer
+D002,Inflammatory Bowel Disease,Inflammatory
+D003,Type 2 Diabetes,Metabolic
+D004,Obesity,Metabolic
+D005,Cardiovascular Disease,Cardiovascular

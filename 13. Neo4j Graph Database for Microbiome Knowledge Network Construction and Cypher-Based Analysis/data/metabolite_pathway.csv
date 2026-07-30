@@ -1,0 +1,6 @@
+metabolite_id,pathway_id,effect
+MT001,P002,Inhibits
+MT002,P005,Activates
+MT003,P004,Activates
+MT004,P001,Activates
+MT005,P003,Suppresses

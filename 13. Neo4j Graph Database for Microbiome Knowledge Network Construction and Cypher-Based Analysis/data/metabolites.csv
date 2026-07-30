@@ -1,0 +1,6 @@
+metabolite_id,name,type
+MT001,Butyrate,SCFA
+MT002,Propionate,SCFA
+MT003,Acetate,SCFA
+MT004,Lipopolysaccharide,Endotoxin
+MT005,Secondary Bile Acid,Bile Acid
